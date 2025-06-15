@@ -32,9 +32,9 @@ To analyze Netflix movie data and uncover insights related to movie genres, popu
 
 ## 📄 Files Included
 
-- `Netflix_EDA.ipynb` – Jupyter Notebook with full analysis and visualizations  
+- `NetflixMovies.ipynb` – Jupyter Notebook with full analysis and visualizations  
 - `NetflixMovie_Analysis.docx` – Executive summary of key findings  
-- `netflix_movies.csv` – Cleaned Netflix movie dataset 
+- `mymoviedb.csv` – Cleaned Netflix movie dataset 
 
 ---
 
